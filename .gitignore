@@ -1,0 +1,3 @@
+*.dblite
+*.kate-swp
+build/
